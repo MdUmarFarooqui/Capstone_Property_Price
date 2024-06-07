@@ -4,7 +4,7 @@
 This project aims to predict property prices based on various features such as location, size, amenities, etc. It involves collecting and cleaning real estate data, performing exploratory data analysis (EDA), developing machine learning models, and evaluating their performance.
 
 ## Project Steps:
-###1. Data Collection and Cleaning:
+### 1. Data Collection and Cleaning:
 Collect real estate data from a specific location.
 Clean the data by handling missing values, outliers, and inconsistencies.
 
